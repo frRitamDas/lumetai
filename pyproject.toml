@@ -63,6 +63,3 @@ packages = ["app"]
 
 [tool.uv]
 package = false
-
-[tool.vercel]
-entrypoint = "app/asgi.py"
